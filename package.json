@@ -1,0 +1,19 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^2.0.1",
+    "postcss": "^8.1.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
